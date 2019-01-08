@@ -1,4 +1,4 @@
 # hello-world
 Insert catchy description here
 
-a nice tea mug
+a nice mug of tea
